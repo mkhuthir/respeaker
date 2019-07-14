@@ -1,7 +1,5 @@
 # ReSpeaker USB 4 Mic Array
 
->Available at [Seeed](https://www.seeedstudio.com/ReSpeaker-Mic-Array-v2.0-p-3053.html)
-
 ![](http://respeaker.io/assets/images/usb_4_mic_array.png)
 
 The ReSpeaker USB 4 Mic Array is the successor of the ReSpeaker USB 6+1 Mic Array. It has better built-in audio processing algorithms than the 6+1 Mic Array, so it has better audio recording quality, although it only has 4 microphones.
